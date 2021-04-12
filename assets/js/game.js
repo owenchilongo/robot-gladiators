@@ -260,5 +260,10 @@ var enemyInfo = [
 // console.log(enemy.names[0]);
 // console.log(enemy.names[3]);
 
+// console.log(enemyInfo);
+// console.log(enemyInfo[0]);
+// console.log(enemyInfo[0].name);
+// console.log(enemyInfo[0]['attack']);
+
 // start the first game when page loads
 startGame();
